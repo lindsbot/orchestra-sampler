@@ -1,10 +1,11 @@
-.app {
-  background-color: green;
-  height: 50px;
-  border: 1px solid blue;
+.piano {
+  display: flex;
 }
 
-.bap {
-  background-color: red;
-  height: 25px;
+.button {
+  cursor: pointer;
+  padding: 12px;
+  margin: 4px;
+  border: 1px solid #ccc;
+  border-radius: 2px;
 }
